@@ -6,6 +6,9 @@ require 'logutils'
 
 # our own code
 require 'fotos/version'   # note: let version always go first
+require 'fotos/builder'
+
+require 'fotos/reports/stats'
 
 
 # say hello
