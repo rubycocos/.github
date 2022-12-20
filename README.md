@@ -1,3 +1,3 @@
-# Ruby Code Commons (COCO) Libraries / Gems
+Github Org Page for Ruby Code Commons (COCOS) Gems / Libraries
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+
