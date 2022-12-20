@@ -1,4 +1,4 @@
-Welcome.  For now all (code) gem updates are by Gerald Bauer - you are more than welcome to join in and contribute.
+Welcome.  Believe it or not. For now all (code) updates are by Gerald Bauer - you are more than welcome to join in and contribute. Yes, you can.
 
 
 ## What's News?
