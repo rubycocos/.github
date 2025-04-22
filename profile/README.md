@@ -3,6 +3,11 @@ Welcome.  Believe it or not. For now all (code) updates are by Gerald Bauer - yo
 
 ## What's News?
 
+NOTE:  I (Gerald Bauer) am happy to work on your library of choice for ruby, BUT unfortunately for now I have first to figure out how to survive and earn some money. unfortunately, ruby is no longer (never was really) in demand over here (in austria). 
+thus, if you want to see progress - please ping me (gerald.bauer @ gmail.com) and your support is more than welcome.
+
+
+<!--
 For now see the weekly update posts in [**Gerald Bauer's Code Monkey Diary / Updates - What's News? »**](https://geraldb.github.io/)  
 
 Let's do (drop-in) ruby (in-person) meetups. Yes, you can. Join us.  
@@ -13,3 +18,5 @@ For an auto-generated¹ Gems Timline, see [**Ruby Code Commons (COCOS) Gem Timel
 ---
 
 ¹: via [gemverse](https://github.com/rubycocos/git/tree/master/gemverse)
+
+-->
