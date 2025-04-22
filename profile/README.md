@@ -1,10 +1,14 @@
+<!--
 Welcome.  Believe it or not. For now all (code) updates are by Gerald Bauer - you are more than welcome to join in and contribute. Yes, you can.
 
-
 ## What's News?
+-->
 
-NOTE:  I (Gerald Bauer) am happy to work on your library of choice for ruby, BUT unfortunately for now I have first to figure out how to survive and earn some money. unfortunately, ruby is no longer (never was really) in demand over here (in austria). 
+
+NOTE:  I (Gerald Bauer) am happy to work on your library of choice (e.g. csvreader, feedreader, inireader, etc.) for ruby, 
+BUT unfortunately for now I have first to figure out how to survive and earn some money. unfortunately, ruby is no longer (never was really) in demand over here (in austria). 
 thus, if you want to see progress - please ping me (gerald.bauer @ gmail.com) and your support is more than welcome.
+
 
 
 <!--
